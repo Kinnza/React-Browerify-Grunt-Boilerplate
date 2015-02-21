@@ -1,0 +1,25 @@
+{
+  "name": "React-Grunt-Boilerplate",
+  "version": "0.0.0",
+  "authors": [
+    "Kinneret Zin <kinnza@gmail.com>"
+  ],
+  "description": "Boilerplate for react using grunt build",
+  "main": "index.html",
+  "keywords": [
+    "react",
+    "reactjs",
+    "grunt",
+    "boilerplate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+  }
+}
